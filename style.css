@@ -1,0 +1,45 @@
+/* estilos por class */
+/* class para el titulo */
+.azul{
+    color: blue; text-align: center; width: 100%;
+}
+/* class para img logo */
+.logo{
+    width: 150px; height: 50px;
+}
+/* class para tamaño de galeria img */
+.galeria img{
+    width: 200px;  float: left; clear: left; margin-bottom: 20px; margin-right: 20px; height: auto;
+}
+/* class para  */
+.galeria ul{
+    list-style: none; padding: 0; margin: 0; float: left; width: 25%;
+}
+/*  */
+.oculto{
+    display: none;
+}
+/*  */
+.oculto:target{
+    display: block;
+}
+
+
+.derecha{
+    float: right; width: 70%; text-align: center;
+}
+
+
+
+/*  */
+.cabecera{
+    width: 450px; height: auto; display: block; margin:  auto;
+}
+/*  */
+.informacion{
+    display: block; text-align: center; margin-top: 20px;
+}
+/*  */
+footer{
+    clear: both; display: block; text-align: center; width: 100%; padding-top: 20px;
+}
